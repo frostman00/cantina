@@ -8,6 +8,7 @@ body {
 	float: left;
 
 }
+
 #topnav {
 	background-color: #9956A2;
 	overflow: hidden;
@@ -44,9 +45,22 @@ body {
 	padding-left: 20px;
 	border-left: solid #FFE919 1px;
 	border-right: solid #FFE919 1px;
+	border-bottom: solid #FFE919 1px;
+}
+#main2 {
+	/*max-width: 720px;*/
+	width: 100%;
+	float: left;
+	background-color: black;
+	padding: 10px 10px 10px 10px;
+	height: 1500px;
+	padding-left: 20px;
+	border-left: solid #FFE919 1px;
+	border-right: solid #FFE919 1px;
+	border-bottom: solid #FFE919 1px;
 }
 footer {
-	border-top: 1px solid white;
+	padding-top: 5px;
 	clear: both;
 	background-color:Black;
 	text-align: center;
