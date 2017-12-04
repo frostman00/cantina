@@ -51,7 +51,11 @@ body {
     float: left;
     background-color: black;
     padding: 10px 10px 10px 10px;
+<<<<<<< HEAD
     height: 1870px;
+=======
+    height: 1500px;
+>>>>>>> 7ffba9f5754d6eea735480aabaffdc6968e434cc
     padding-left: 20px;
     border-left: solid #FFE919 1px;
     border-right: solid #FFE919 1px;
