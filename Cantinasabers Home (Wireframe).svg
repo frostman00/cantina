@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Cantinasabers Home (Wireframe).svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="229.86136"
+     inkscape:cy="608.19904"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3699"
+       width="210.07915"
+       height="25.929165"
+       x="0.52916664"
+       y="0.13749999"
+       style="fill:#ececec;stroke-width:0.27362221" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.26832679"
+       id="rect3701"
+       width="210.07915"
+       height="21.166666"
+       x="0.52916664"
+       y="26.066666" />
+    <rect
+       style="fill:#e6e6e6;stroke-width:0.28616422"
+       id="rect3703"
+       width="209.02084"
+       height="219.075"
+       x="0.52916664"
+       y="47.23333" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect3705"
+       width="193.675"
+       height="17.4625"
+       x="7.9375"
+       y="278.47916" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.8125"
+       y="16.012499"
+       id="text3709"><tspan
+         sodipodi:role="line"
+         id="tspan3707"
+         x="23.8125"
+         y="16.012499"
+         style="stroke-width:0.26458332">Logo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.974998"
+       y="36.120834"
+       id="text3713"><tspan
+         sodipodi:role="line"
+         id="tspan3711"
+         x="53.974998"
+         y="36.120834"
+         style="stroke-width:0.26458332">Top Nav</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89.429161"
+       y="62.579166"
+       id="text3717"><tspan
+         sodipodi:role="line"
+         id="tspan3715"
+         x="89.429161"
+         y="62.579166"
+         style="stroke-width:0.26458332">Article</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="85.195831"
+       y="290.64999"
+       id="text3725"><tspan
+         sodipodi:role="line"
+         id="tspan3723"
+         x="85.195831"
+         y="290.64999"
+         style="stroke-width:0.26458332">Footer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="61.383335"
+       y="76.337502"
+       id="text3729"><tspan
+         sodipodi:role="line"
+         id="tspan3727"
+         x="61.383335"
+         y="76.337502"
+         style="stroke-width:0.26458332">Homepage intro</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect3733"
+       width="50.799999"
+       height="32.279167"
+       x="7.9375"
+       y="202.80832" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.991667"
+       y="221.32918"
+       id="text3721"><tspan
+         sodipodi:role="line"
+         id="tspan3719"
+         x="17.991667"
+         y="221.32918"
+         style="stroke-width:0.26458332">Video</tspan></text>
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="0"
+       inkscape:original="M 17.992188 106.5 L 17.992188 149.36328 L 96.308594 149.36328 L 96.308594 106.5 L 17.992188 106.5 z "
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect3735"
+       d="m 17.992188,106.5 v 42.86328 H 96.308594 V 106.5 Z"
+       transform="translate(-1.0583333,-4.2333333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.099998"
+       y="126.07916"
+       id="text3739"><tspan
+         sodipodi:role="line"
+         id="tspan3737"
+         x="38.099998"
+         y="126.07916"
+         style="stroke-width:0.26458332">Image</tspan></text>
+    <path
+       transform="translate(96.308334,-3.704167)"
+       d="m 17.992188,106.5 v 42.86328 H 96.308594 V 106.5 Z"
+       id="path3758"
+       style="fill:#cccccc;stroke-width:0.26458332"
+       inkscape:original="M 17.992188 106.5 L 17.992188 149.36328 L 96.308594 149.36328 L 96.308594 106.5 L 17.992188 106.5 z "
+       inkscape:radius="0"
+       sodipodi:type="inkscape:offset" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136.52499"
+       y="126.07916"
+       id="text3745"><tspan
+         sodipodi:role="line"
+         id="tspan3743"
+         x="136.52499"
+         y="126.07916"
+         style="stroke-width:0.26458332">Image</tspan></text>
+  </g>
+</svg>
